@@ -213,7 +213,6 @@ i {
 .video-div {
     text-align: center;
     width: 80%;
-    /*background-color: palegreen;*/
     margin-left: auto;
     margin-right: auto;
 }
@@ -246,7 +245,6 @@ i {
 
 .price-box h4 {
     padding: 10px;
-    /* text-shadow: 0 0 3px #000;*/
     font-size: 1.5em;
 }
 
@@ -256,7 +254,6 @@ i {
 
 .price-box div {
     margin: 20px 0 20px 0;
-    /*background-color: lightpink;*/
     position: relative;
     bottom: 0p;
 }
@@ -277,7 +274,6 @@ i {
     margin-left: auto;
     margin-right: auto;
     padding: 0;
-    /* background-color: lightyellow;*/
 }
 
 footer p {
@@ -306,7 +302,6 @@ footer p {
             And applied Display block + margin left and right to aouto to center the image' */
     #header-img {
         width: 60%;
-        /*background-color: green;*/
         float: none;
         display: block;
         margin-left: auto;
@@ -356,7 +351,6 @@ footer p {
     #container-box {
         padding-top: 10px;
         flex-direction: column;
-        /* background-color: goldenrod;*/
         width: 100%;
     }
 
